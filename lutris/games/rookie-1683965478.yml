@@ -1,0 +1,5 @@
+game:
+  exe: /home/johnevansolanoy/Downloads/rookie_2.19_portable/AndroidSideloader v2.19.exe
+  working_dir: ~/Downloads/rookie_2.19_portable
+system: {}
+wine: {}

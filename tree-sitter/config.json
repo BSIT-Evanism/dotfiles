@@ -1,0 +1,56 @@
+{
+  "parser-directories": [
+    "/home/johnevansolanoy/github",
+    "/home/johnevansolanoy/src",
+    "/home/johnevansolanoy/source"
+  ],
+  "theme": {
+    "embedded": null,
+    "operator": {
+      "bold": true,
+      "color": 239
+    },
+    "punctuation.bracket": 239,
+    "constant": 94,
+    "comment": {
+      "color": 245,
+      "italic": true
+    },
+    "string.special": 30,
+    "constructor": 136,
+    "number": {
+      "color": 94,
+      "bold": true
+    },
+    "module": 136,
+    "type": 23,
+    "function.builtin": {
+      "bold": true,
+      "color": 26
+    },
+    "tag": 18,
+    "attribute": {
+      "color": 124,
+      "italic": true
+    },
+    "type.builtin": {
+      "bold": true,
+      "color": 23
+    },
+    "variable.builtin": {
+      "bold": true
+    },
+    "keyword": 56,
+    "constant.builtin": {
+      "bold": true,
+      "color": 94
+    },
+    "string": 28,
+    "variable.parameter": {
+      "underline": true
+    },
+    "property": 124,
+    "punctuation.delimiter": 239,
+    "function": 26
+  }
+}

@@ -1,0 +1,1 @@
+return {recents={[1]="/home/johnevansolanoy/rustest",[2]="/home/johnevansolanoy/repos/Ecomm",[3]="/home/johnevansolanoy/repos/calculator"}, window={[1]=1330,[2]=676,[3]=1440,[4]=464,["n"]=4}, window_mode="normal", previous_find={}, previous_replace={}}

@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=evanismsolanoy@gmail.com
+Enabled=true
+Parent=7c0c0990cb300981ed9a0fa526393a72c4c57dd8
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=bdb10133722ded0b6608fc5c904cc5d1526e47f2
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=evanismsolanoy@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none
